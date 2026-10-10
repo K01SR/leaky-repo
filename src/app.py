@@ -1,5 +1,5 @@
-# Core service iteration 1904
-VERSION = '2.19.4'
+# Core service iteration 1905
+VERSION = '2.19.5'
 
 def run():
     pass
